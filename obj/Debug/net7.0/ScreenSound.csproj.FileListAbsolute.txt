@@ -1,0 +1,4 @@
+C:\Users\matheus.filipe\Documents\Alura\Formações\Aprenda a programar em C# com Orientação a Objetos\Alurafy\aprendendo poo\ScreenSound-aula-1\ScreenSound-aula-1\ScreenSound\obj\Debug\net7.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.filipe\Documents\Alura\Formações\Aprenda a programar em C# com Orientação a Objetos\Alurafy\aprendendo poo\ScreenSound-aula-1\ScreenSound-aula-1\ScreenSound\obj\Debug\net7.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\matheus.filipe\Documents\Alura\Formações\Aprenda a programar em C# com Orientação a Objetos\Alurafy\aprendendo poo\ScreenSound-aula-1\ScreenSound-aula-1\ScreenSound\obj\Debug\net7.0\ScreenSound.AssemblyInfo.cs
+C:\Users\matheus.filipe\Documents\Alura\Formações\Aprenda a programar em C# com Orientação a Objetos\Alurafy\aprendendo poo\ScreenSound-aula-1\ScreenSound-aula-1\ScreenSound\obj\Debug\net7.0\ScreenSound.csproj.CoreCompileInputs.cache
