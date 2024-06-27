@@ -17,11 +17,11 @@ class Album
 
     public void ExibirMusicasDoAlbum()
     {
-        Console.WriteLine($"Lista de músicas do álbum {Nome}:\n");
+        Console.WriteLine($"Lista de músicas do álbum {Nome}:");
         foreach (var musica in musicas)
         {
-            Console.WriteLine($"Música: {musica.Nome}");
+            Console.WriteLine($"{musica.Nome}");
         }
-        Console.WriteLine($"\nPara ouvir este álbum inteiro você precisa de {DuracaoTotal}");
+        Console.WriteLine($"\nPara ouvir este álbum inteiro você precisa de {DuracaoTotal/60} minutos.\n");
     }
 }
