@@ -20,13 +20,13 @@ class Musica
     {
         Console.WriteLine($"Nome: {Nome}");
         Console.WriteLine($"Artista: {Artista.Nome}");
-        Console.WriteLine($"Duração: {Duracao}");
+        Console.WriteLine($"Duração: {Duracao} seg");
         if (Disponivel)
         {
-            Console.WriteLine("Disponível no plano.");
+            Console.WriteLine("Disponível no plano.\n");
         } else
         {
-            Console.WriteLine("Adquira o plano Plus+");
+            Console.WriteLine("Adquira o plano Plus+.\n");
         }
     }
 }
