@@ -1,6 +1,5 @@
-﻿class Musica
+class Musica
 {
-    //Construtor com parametro
     public Musica(Banda artista, string nome)
     {
         Artista = artista;
@@ -11,7 +10,9 @@
     public Banda Artista { get; }
     public int Duracao { get; set; }
     public bool Disponivel { get; set; }
-    public string DescricaoResumida => $"A música {Nome} pertence à {Artista}"; //função lambda (somente leitura)
+    public string DescricaoResumida => 
+        $"A música {Nome} pertence à banda {Artista}";
+
 
 
 
